@@ -98,3 +98,5 @@ TASK MANAGER APPLICATION ANALYSIS
     - Separation of concerns (HTML structure, CSS styling, JS logic)
     - Error handling and input validation
     - Comments for complex logic sections
+
+    edited by- Aditya
